@@ -1,0 +1,828 @@
+[
+    {
+        "nameEN": "Petropavlovsk-Sakhalinsky",
+        "nameRU": "ПЕТРОПАВЛОВСК-САХАЛЬСКИЙ",
+        "lat": 57.50879561671475,
+        "lng": -68.67346295566054,
+        "spellings": [
+            "Petropavlovsk-Sakhalinsky",
+            "ПЕТРОПАВЛОВСК-САХАЛЬСКИЙ",
+            "NETPONABNOBCK-CAXANbCKNN"
+        ],
+        "type": "Capital",
+        "minZoom": 0
+    },
+    {
+        "nameEN": "Severomorsk",
+        "nameRU": "СЕВЕРОМОРСК",
+        "lat": 80.0799648631219,
+        "lng": 43.70962536183892,
+        "spellings": [
+            "Severomorsk",
+            "СЕВЕРОМОРСК",
+            "CEBEPOMOPCK"
+        ],
+        "type": "City",
+        "minZoom": 2
+    },
+    {
+        "nameEN": "Aniva",
+        "nameRU": "АНИВА",
+        "lat": -9.507667508930941,
+        "lng": 122.24888061771811,
+        "spellings": [
+            "Aniva",
+            "АНИВА",
+            "AHNBA"
+        ],
+        "type": "City",
+        "minZoom": 2
+    },
+    {
+        "nameEN": "Nogovo",
+        "nameRU": "НОГОВО",
+        "lat": 6.279429982772884,
+        "lng": 3.162650848955903,
+        "spellings": [
+            "Nogovo",
+            "НОГОВО",
+            "HOrOBO",
+            "HOTOBO"
+        ],
+        "type": "City",
+        "minZoom": 2
+    },
+    {
+        "nameEN": "Bolotnoye",
+        "nameRU": "БОЛОТНОЕ",
+        "lat": 22.517005633689404,
+        "lng": -61.853133716788314,
+        "spellings": [
+            "Bolotnoye",
+            "БОЛОТНОЕ",
+            "BONOTHOE",
+            "GONOTHOE",
+            "6ONOTHOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Dudino",
+        "nameRU": "ДУДИНО",
+        "lat": -10.154272968154828,
+        "lng": -33.89212759316435,
+        "spellings": [
+            "Dudino",
+            "ДУДИНО",
+            "AyANHO"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Tikhoye",
+        "nameRU": "ТИХОЕ",
+        "lat": 22.560300081769082,
+        "lng": -33.25931354007313,
+        "spellings": [
+            "Tikhoye",
+            "ТИХОЕ",
+            "TNXOE"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Taranay",
+        "nameRU": "ТАРАНАЙ",
+        "lat": -24.879111119834143,
+        "lng": 47.50650968038634,
+        "spellings": [
+            "Taranay",
+            "ТАРАНАЙ",
+            "TAPAHAN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Yuzhnoye",
+        "nameRU": "ЮЖНОЕ",
+        "lat": -30.297598795940885,
+        "lng": 77.17845750310885,
+        "spellings": [
+            "Yuzhnoye",
+            "ЮЖНОЕ",
+            "ЮXHOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Dolinovka",
+        "nameRU": "ДОЛИНОВКА",
+        "lat": 44.997085662039225,
+        "lng": 50.436204370623564,
+        "spellings": [
+            "Dolinovka",
+            "ДОЛИНОВКА",
+            "AONNHOBKA"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Goryachevo",
+        "nameRU": "ГОРЯЧЕВО",
+        "lat": 48.58945878423308,
+        "lng": 25.662706069977688,
+        "spellings": [
+            "Goryachevo",
+            "ГОРЯЧЕВО",
+            "rOPRuEBO",
+            "rOPRyEBO",
+            "TOPRuEBO",
+            "TOPRyEBO"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Yasnaya Polyana",
+        "nameRU": "ЯСНАЯ ПОЛЯНА",
+        "lat": 33.34243712431565,
+        "lng": 10.240793220569,
+        "spellings": [
+            "Yasnaya Polyana",
+            "ЯСНАЯ ПОЛЯНА",
+            "RCHAR NONRHA"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Lesogorovka",
+        "nameRU": "ЛЕСОГОРОВКА",
+        "lat": 42.62983809172991,
+        "lng": 77.10814483054314,
+        "spellings": [
+            "Lesogorovka",
+            "ЛЕСОГОРОВКА",
+            "NECOrOPOBKA",
+            "NECOTOPOBKA"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Sachalag",
+        "nameRU": "САХАЛАГ",
+        "lat": 42.68154827828948,
+        "lng": 105.09258851168899,
+        "spellings": [
+            "Sachalag",
+            "САХАЛАГ",
+            "CAXANAr",
+            "CAXANAT"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Iturul",
+        "nameRU": "ИТУРУП",
+        "lat": 57.571690536611044,
+        "lng": 63.092485432448306,
+        "spellings": [
+            "Iturul",
+            "ИТУРУП",
+            "NTyPyN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Vostok",
+        "nameRU": "ВОСТОК",
+        "lat": 15.204083651843774,
+        "lng": 146.0380015024443,
+        "spellings": [
+            "Vostok",
+            "ВОСТОК",
+            "BOCTOK"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Shumnoye",
+        "nameRU": "ШУМНОЕ",
+        "lat": 26.2517351305757,
+        "lng": 157.12396621030192,
+        "spellings": [
+            "Shumnoye",
+            "ШУМНОЕ",
+            "WyMHOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Baykovo",
+        "nameRU": "БАЙКОВО",
+        "lat": 44.31354141688115,
+        "lng": 161.53022702441868,
+        "spellings": [
+            "Baykovo",
+            "БАЙКОВО",
+            "BANKOBO",
+            "GANKOBO",
+            "6ANKOBO"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Matrosovo",
+        "nameRU": "МАТРОСОВО",
+        "lat": 67.11702395129285,
+        "lng": 153.6083325820172,
+        "spellings": [
+            "Matrosovo",
+            "МАТРОСОВО",
+            "MATPOCOBO"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Rudnogorsk",
+        "nameRU": "РУДНОГОРСК",
+        "lat": 71.75694094987965,
+        "lng": 138.46767042287132,
+        "spellings": [
+            "Rudnogorsk",
+            "РУДНОГОРСК",
+            "PyAHOrOPCK",
+            "PyAHOTOPCK"
+        ],
+        "type": "City",
+        "minZoom": 2
+    },
+    {
+        "nameEN": "Rybnoye",
+        "nameRU": "РЫБНОЕ",
+        "lat": 75.17936663815165,
+        "lng": 112.31135622843348,
+        "spellings": [
+            "Rybnoye",
+            "РЫБНОЕ",
+            "PbIBHOE",
+            "PblBHOE",
+            "PbIGHOE",
+            "PblGHOE",
+            "PbI6HOE",
+            "Pbl6HOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Podgornoye",
+        "nameRU": "ПОДГОРНОЕ",
+        "lat": 78.10276493536753,
+        "lng": 77.48314575089351,
+        "spellings": [
+            "Podgornoye",
+            "ПОДГОРНОЕ",
+            "NOArOPHOE",
+            "NOATOPHOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Orlovo",
+        "nameRU": "ОРЛОВО",
+        "lat": 78.75602491027868,
+        "lng": 63.13936054749212,
+        "spellings": [
+            "Orlovo",
+            "ОРЛОВО",
+            "OPNOBO"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Tumanovo",
+        "nameRU": "ТУМАНОВО",
+        "lat": 80.03950706676243,
+        "lng": 17.29549803466021,
+        "spellings": [
+            "Tumanovo",
+            "ТУМАНОВО",
+            "TyMAHOBO"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Evai",
+        "nameRU": "ЭВАЙ",
+        "lat": 79.48135713396636,
+        "lng": 6.443908902021581,
+        "spellings": [
+            "Evai",
+            "ЭВАЙ",
+            "3BAN",
+            "eBAN"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Yasnomorsk",
+        "nameRU": "ЯСНОМОРСК",
+        "lat": 78.67806970591906,
+        "lng": -17.063961292441792,
+        "spellings": [
+            "Yasnomorsk",
+            "ЯСНОМОРСК",
+            "RCHOMOPCK"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Sovetskoye",
+        "nameRU": "СОВЕТСКОЕ",
+        "lat": 75.85907607950621,
+        "lng": -29.673367239222767,
+        "spellings": [
+            "Sovetskoye",
+            "СОВЕТСКОЕ",
+            "COBETCKOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Zhupanovo",
+        "nameRU": "ЖУПАНОВО",
+        "lat": 74.24656859245698,
+        "lng": -45.42340589393802,
+        "spellings": [
+            "Zhupanovo",
+            "ЖУПАНОВО",
+            "XyNAHOBO"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Vysokoye",
+        "nameRU": "ВЫСОКОЕ",
+        "lat": 6.671558755711708,
+        "lng": 82.19880576185682,
+        "spellings": [
+            "Vysokoye",
+            "ВЫСОКОЕ",
+            "BbICOKOE",
+            "BblCOKOE"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Pik Volcij",
+        "nameRU": "ПИК ВОЛЧИЙ",
+        "lat": 67.85289090942163,
+        "lng": 12.11579782232082,
+        "spellings": [
+            "Pik Volcij",
+            "ПИК ВОЛЧИЙ",
+            "NNK BONuNN",
+            "NNK BONyNN"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Storoz",
+        "nameRU": "СТОРОЖ",
+        "lat": 75.9048108532344,
+        "lng": 25.7095811850215,
+        "spellings": [
+            "Storoz",
+            "СТОРОЖ",
+            "CTOPOX"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Odinokij vulkan",
+        "nameRU": "OДИНОКИЙ ВУЛКАН",
+        "lat": 71.27396711186002,
+        "lng": 55.07684075995931,
+        "spellings": [
+            "Odinokij vulkan",
+            "OДИНОКИЙ ВУЛКАН",
+            "OANHOKNN ByNKAH"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Ostrij",
+        "nameRU": "ОСТРЫЙ",
+        "lat": 67.86172478402918,
+        "lng": 90.63161552067812,
+        "spellings": [
+            "Ostrij",
+            "ОСТРЫЙ",
+            "OCTPbIN",
+            "OCTPblN"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Tupoj",
+        "nameRU": "ТУПОЙ",
+        "lat": 64.02925828990182,
+        "lng": 98.88163576838613,
+        "spellings": [
+            "Tupoj",
+            "ТУПОЙ",
+            "TyNON"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Ledanoj greben",
+        "nameRU": "ЛЕДЯНОЙ ГРЕБЕНЬ",
+        "lat": 22.560300081769082,
+        "lng": 72.11594507837893,
+        "spellings": [
+            "Ledanoj greben",
+            "ЛЕДЯНОЙ ГРЕБЕНЬ",
+            "NEARHON rPEBEHb",
+            "NEARHON TPEBEHb",
+            "NEARHON rPEGEHb",
+            "NEARHON TPEGEHb",
+            "NEARHON rPE6EHb",
+            "NEARHON TPE6EHb"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Trojka",
+        "nameRU": "ТРОЙКА",
+        "lat": 34.83691824231045,
+        "lng": 31.334594990276926,
+        "spellings": [
+            "Trojka",
+            "ТРОЙКА",
+            "TPONKA"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Pik Vostocnij",
+        "nameRU": "ПИК ВОСТОЧНЫЙ",
+        "lat": 37.6713065887123,
+        "lng": 120.84262716640424,
+        "spellings": [
+            "Pik Vostocnij",
+            "ПИК ВОСТОЧНЫЙ",
+            "NNK BOCTOuHbIN",
+            "NNK BOCTOuHblN",
+            "NNK BOCTOyHbIN",
+            "NNK BOCTOyHblN"
+        ],
+        "type": "Hill",
+        "minZoom": 6
+    },
+    {
+        "nameEN": "Zvezdny nikel",
+        "nameRU": "ЗВЕЗДНЫЙ НИКЕЛЬ",
+        "lat": 52.51765484106115,
+        "lng": 102.0457060338423,
+        "spellings": [
+            "Zvezdny nikel",
+            "ЗВЕЗДНЫЙ НИКЕЛЬ",
+            "3BE3AHbIN HNKENb",
+            "3BE3AHblN HNKENb"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Sakhalskaya GeoES",
+        "nameRU": "САХАЛСКАЯ ГЕОЭС",
+        "lat": 50.787529479373525,
+        "lng": 17.061122459441226,
+        "spellings": [
+            "Sakhalskaya GeoES",
+            "САХАЛСКАЯ ГЕОЭС",
+            "CAXANCKAR rEO3C",
+            "CAXANCKAR rEOeC",
+            "CAXANCKAR TEO3C",
+            "CAXANCKAR TEOeC"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Tungar",
+        "nameRU": "ТУНГАР",
+        "lat": 81.83850923540703,
+        "lng": 116.03792787441523,
+        "spellings": [
+            "Tungar",
+            "ТУНГАР",
+            "TyHrAP",
+            "TyHTAP"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Ushki",
+        "nameRU": "УШКИ",
+        "lat": 83.3334831154364,
+        "lng": 73.5456360872147,
+        "spellings": [
+            "Ushki",
+            "УШКИ",
+            "yWKN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Sputnik",
+        "nameRU": "СПУТНИК",
+        "lat": 83.78294899614431,
+        "lng": 2.5063992383427673,
+        "spellings": [
+            "Sputnik",
+            "СПУТНИК",
+            "CNyTHNK"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Utyos",
+        "nameRU": "УТЁС",
+        "lat": 83.06712176727311,
+        "lng": -52.173422460244566,
+        "spellings": [
+            "Utyos",
+            "УТЁС",
+            "yTEC"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Tochka",
+        "nameRU": "ТОЧКА",
+        "lat": 82.6805166104621,
+        "lng": -91.97039513242686,
+        "spellings": [
+            "Tochka",
+            "ТОЧКА",
+            "TOuKA",
+            "TOyKA"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Cherepakha",
+        "nameRU": "ЧЕРЕПАХА",
+        "lat": 64.21339079204513,
+        "lng": -160.40806309636812,
+        "spellings": [
+            "Cherepakha",
+            "ЧЕРЕПАХА",
+            "uEPENAXA",
+            "yEPENAXA"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Urup",
+        "nameRU": "УРUП",
+        "lat": -82.8810062347624,
+        "lng": -143.95489771599597,
+        "spellings": [
+            "Urup",
+            "УРUП",
+            "yPUN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Mrak",
+        "nameRU": "МРАК",
+        "lat": -81.49228844658563,
+        "lng": 17.904874530229566,
+        "spellings": [
+            "Mrak",
+            "МРАК",
+            "MPAK"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Solisko",
+        "nameRU": "СОЛИСКО",
+        "lat": -78.25198564930581,
+        "lng": 116.57699169741888,
+        "spellings": [
+            "Solisko",
+            "СОЛИСКО",
+            "CONNCKO"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Elizarovo",
+        "nameRU": "ЕЛИЗАРОВO",
+        "lat": -50.476465098081555,
+        "lng": 136.24110245829104,
+        "spellings": [
+            "Elizarovo",
+            "ЕЛИЗАРОВO",
+            "ENN3APOBO"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Slomanyy",
+        "nameRU": "СЛОМАННЫЙ",
+        "lat": -27.61147757992312,
+        "lng": -32.017122991412535,
+        "spellings": [
+            "Slomanyy",
+            "СЛОМАННЫЙ",
+            "CNOMAHHbIN",
+            "CNOMAHHblN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Utichy",
+        "nameRU": "УТИЧИЙ",
+        "lat": -50.95135122810958,
+        "lng": 22.240822671780645,
+        "spellings": [
+            "Utichy",
+            "УТИЧИЙ",
+            "yTNuNN",
+            "yTNyNN"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Ketoy",
+        "nameRU": "КЕТОЙ",
+        "lat": -78.51157668621204,
+        "lng": -45.095280088631455,
+        "spellings": [
+            "Ketoy",
+            "КЕТОЙ",
+            "KETON"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Raketnaja buchta",
+        "nameRU": "РАКЕТНАЯ БУХТА",
+        "lat": -9.600116554521657,
+        "lng": -76.94692076089044,
+        "spellings": [
+            "Raketnaja buchta",
+            "РАКЕТНАЯ БУХТА",
+            "PAKETHAR ByXTA",
+            "PAKETHAR GyXTA",
+            "PAKETHAR 6yXTA"
+        ],
+        "type": "Marine",
+        "minZoom": 5
+    },
+    {
+        "nameEN": "Burukan",
+        "nameRU": "БУРУКАН",
+        "lat": -25.811077922617816,
+        "lng": -116.55639297289754,
+        "spellings": [
+            "Burukan",
+            "БУРУКАН",
+            "ByPyKAH",
+            "GyPyKAH",
+            "6yPyKAH"
+        ],
+        "type": "City",
+        "minZoom": 2
+    },
+    {
+        "nameEN": "Shantar",
+        "nameRU": "ШАНТАР",
+        "lat": -70.20006602985677,
+        "lng": -126.58766759226975,
+        "spellings": [
+            "Shantar",
+            "ШАНТАР",
+            "WAHTAP"
+        ],
+        "type": "Village",
+        "minZoom": 3
+    },
+    {
+        "nameEN": "Tugur",
+        "nameRU": "ТУГУР",
+        "lat": -34.10414963884045,
+        "lng": -139.2439486540945,
+        "spellings": [
+            "Tugur",
+            "ТУГУР",
+            "TyryP",
+            "TyTyP"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Neran",
+        "nameRU": "НЕРАН",
+        "lat": 35.39289458884706,
+        "lng": -117.49389527377346,
+        "spellings": [
+            "Neran",
+            "НЕРАН",
+            "HEPAH"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Kekra",
+        "nameRU": "КЕКРА",
+        "lat": -62.54491146392837,
+        "lng": -11.509260159752063,
+        "spellings": [
+            "Kekra",
+            "КЕКРА",
+            "KEKPA"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Ayan",
+        "nameRU": "АЯН",
+        "lat": -73.08070956404646,
+        "lng": -150.84553962743388,
+        "spellings": [
+            "Ayan",
+            "АЯН",
+            "ARH"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    },
+    {
+        "nameEN": "Cherny Mys",
+        "nameRU": "ЧЕРНЫЙ МЫС",
+        "lat": -68.72903219407128,
+        "lng": -60.82188118582482,
+        "spellings": [
+            "Cherny Mys",
+            "ЧЕРНЫЙ МЫС",
+            "uEPHbIN MbIC",
+            "uEPHblN MblC",
+            "yEPHbIN MbIC",
+            "yEPHblN MblC"
+        ],
+        "type": "Local",
+        "minZoom": 4
+    }
+]

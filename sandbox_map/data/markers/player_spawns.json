@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "Player Spawns",
+    "title_icon": "images/loot_icon_playerspawn_playerspawnfresh.svg"
+  },
+  "sections": [
+    {
+      "id": "fresh_spawns",
+      "label": "Fresh Spawns",
+      "display_type": "point",
+      "icon": "images/loot_icon_playerspawn_playerspawnfresh.svg",
+      "items": [
+        {
+          "x": 9423,
+          "y": 12774
+        },
+        {
+          "x": 10653,
+          "y": 12988
+        },
+        {
+          "x": 11211,
+          "y": 12691
+        },
+        {
+          "x": 11672,
+          "y": 12323
+        },
+        {
+          "x": 12435,
+          "y": 12238
+        },
+        {
+          "x": 12498,
+          "y": 11477
+        },
+        {
+          "x": 13791,
+          "y": 11148
+        },
+        {
+          "x": 13892,
+          "y": 10745
+        },
+        {
+          "x": 13753,
+          "y": 10145
+        },
+        {
+          "x": 13604,
+          "y": 9336
+        }
+      ]
+    }
+  ]
+}

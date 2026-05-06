@@ -1,0 +1,32 @@
+{
+  "image_file": "images/sakhal.webp",
+  "game_bounds": {
+    "x_max": 15360,
+    "y_max": 15360
+  },
+  "image": {
+    "width": 8912,
+    "height": 8912,
+    "game_region_px": {
+      "x0": 0,
+      "y0": 0,
+      "x1": 8912,
+      "y1": 8912
+    }
+  },
+  "marker_defaults": {
+    "icon_game_size": 300,
+    "icon_size_min": 16,
+    "icon_size_max": 24
+  },
+  "marker_files": [
+    "data/markers/player_spawns.json",
+    "data/markers/vehicles_boats.json",
+    "data/markers/vehicles_mil_boats.json",    
+    "data/markers/vehicles_ada.json",
+    "data/markers/vehicles_olga.json",
+    "data/markers/vehicles_sarka.json",
+    "data/markers/vehicles_gunter.json",
+    "data/markers/gas_zones.json"
+  ]
+}

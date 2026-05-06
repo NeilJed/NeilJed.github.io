@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Petropavlovsk-Sakhalinsky",
+    "type": "capital",
+    "x": 4749.9,
+    "y": 10694.4,
+    "zoom": 1
+  },
+  {
+    "name": "Aniva",
+    "type": "city",
+    "x": 12896.0,
+    "y": 7272.5,
+    "zoom": 2
+  },
+  {
+    "name": "Burukan",
+    "type": "city",
+    "x": 2706.9,
+    "y": 6539.5,
+    "zoom": 2
+  },
+  {
+    "name": "Nogovo",
+    "type": "city",
+    "x": 7814.9,
+    "y": 7948.5,
+    "zoom": 2
+  },
+  {
+    "name": "Rudnogorsk",
+    "type": "city",
+    "x": 13588.0,
+    "y": 12151.4,
+    "zoom": 2
+  },
+  {
+    "name": "Severomorsk",
+    "type": "city",
+    "x": 9544.9,
+    "y": 13655.4,
+    "zoom": 2
+  },
+  {
+    "name": "Bolotnoye",
+    "type": "village",
+    "x": 5040.9,
+    "y": 8666.5,
+    "zoom": 3
+  },
+  {
+    "name": "Dudino",
+    "type": "village",
+    "x": 6233.9,
+    "y": 7244.5,
+    "zoom": 3
+  },
+  {
+    "name": "Evai",
+    "type": "village",
+    "x": 7954.9,
+    "y": 13511.4,
+    "zoom": 3
+  },
+  {
+    "name": "Lesogorovka",
+    "type": "village",
+    "x": 10969.9,
+    "y": 9694.4,
+    "zoom": 3
+  },
+  {
+    "name": "Matrosovo",
+    "type": "village",
+    "x": 14234.0,
+    "y": 11585.4,
+    "zoom": 3
+  },
+  {
+    "name": "Orlovo",
+    "type": "village",
+    "x": 10373.9,
+    "y": 13347.4,
+    "zoom": 3
+  },
+  {
+    "name": "Podgornoye",
+    "type": "village",
+    "x": 10985.9,
+    "y": 13208.4,
+    "zoom": 3
+  },
+  {
+    "name": "Rybnoye",
+    "type": "village",
+    "x": 12472.0,
+    "y": 12666.4,
+    "zoom": 3
+  },
+  {
+    "name": "Sachalag",
+    "type": "village",
+    "x": 12164.0,
+    "y": 9697.4,
+    "zoom": 3
+  },
+  {
+    "name": "Shantar",
+    "type": "village",
+    "x": 2278.9,
+    "y": 3412.5,
+    "zoom": 3
+  },
+  {
+    "name": "Shumnoye",
+    "type": "village",
+    "x": 14384.0,
+    "y": 8841.5,
+    "zoom": 3
+  },
+  {
+    "name": "Sovetskoye",
+    "type": "village",
+    "x": 6413.9,
+    "y": 12782.4,
+    "zoom": 3
+  },
+  {
+    "name": "Tumanovo",
+    "type": "village",
+    "x": 8417.9,
+    "y": 13645.4,
+    "zoom": 3
+  },
+  {
+    "name": "Vostok",
+    "type": "village",
+    "x": 13911.0,
+    "y": 8336.5,
+    "zoom": 3
+  },
+  {
+    "name": "Vysokoye",
+    "type": "village",
+    "x": 11187.1,
+    "y": 7965.3,
+    "zoom": 3
+  },
+  {
+    "name": "Yasnomorsk",
+    "type": "village",
+    "x": 6951.9,
+    "y": 13330.4,
+    "zoom": 3
+  },
+  {
+    "name": "Yuzhnoye",
+    "type": "village",
+    "x": 10972.9,
+    "y": 6322.5,
+    "zoom": 3
+  },
+  {
+    "name": "Zhupanovo",
+    "type": "village",
+    "x": 5741.9,
+    "y": 12515.4,
+    "zoom": 3
+  },
+  {
+    "name": "Ayan",
+    "type": "local",
+    "x": 1243.9,
+    "y": 3021.5,
+    "zoom": 4
+  },
+  {
+    "name": "Baykovo",
+    "type": "local",
+    "x": 14572.0,
+    "y": 9793.4,
+    "zoom": 4
+  },
+  {
+    "name": "Cherepakha",
+    "type": "local",
+    "x": 835.9,
+    "y": 11284.4,
+    "zoom": 4
+  },
+  {
+    "name": "Cherny Mys",
+    "type": "local",
+    "x": 5084.9,
+    "y": 3591.5,
+    "zoom": 4
+  },
+  {
+    "name": "Dolinovka",
+    "type": "local",
+    "x": 9831.9,
+    "y": 9834.4,
+    "zoom": 4
+  },
+  {
+    "name": "Elizarovo",
+    "type": "local",
+    "x": 13493.0,
+    "y": 5177.5,
+    "zoom": 4
+  },
+  {
+    "name": "Goryachevo",
+    "type": "local",
+    "x": 8774.9,
+    "y": 10058.4,
+    "zoom": 4
+  },
+  {
+    "name": "Iturul",
+    "type": "local",
+    "x": 10371.9,
+    "y": 10699.4,
+    "zoom": 4
+  },
+  {
+    "name": "Kekra",
+    "type": "local",
+    "x": 7188.9,
+    "y": 4234.5,
+    "zoom": 4
+  },
+  {
+    "name": "Ketoy",
+    "type": "local",
+    "x": 5755.9,
+    "y": 2065.5,
+    "zoom": 4
+  },
+  {
+    "name": "Mrak",
+    "type": "local",
+    "x": 8443.9,
+    "y": 1327.5,
+    "zoom": 4
+  },
+  {
+    "name": "Neran",
+    "type": "local",
+    "x": 2666.9,
+    "y": 9296.5,
+    "zoom": 4
+  },
+  {
+    "name": "Sakhalskaya GeoES",
+    "type": "local",
+    "x": 8407.9,
+    "y": 10203.4,
+    "zoom": 4
+  },
+  {
+    "name": "Slomanyy",
+    "type": "local",
+    "x": 6313.9,
+    "y": 6453.5,
+    "zoom": 4
+  },
+  {
+    "name": "Solisko",
+    "type": "local",
+    "x": 12654.0,
+    "y": 2120.5,
+    "zoom": 4
+  },
+  {
+    "name": "Sputnik",
+    "type": "local",
+    "x": 7786.9,
+    "y": 14801.4,
+    "zoom": 4
+  },
+  {
+    "name": "Taranay",
+    "type": "local",
+    "x": 9706.9,
+    "y": 6583.5,
+    "zoom": 4
+  },
+  {
+    "name": "Tikhoye",
+    "type": "local",
+    "x": 6260.9,
+    "y": 8668.5,
+    "zoom": 4
+  },
+  {
+    "name": "Tochka",
+    "type": "local",
+    "x": 3755.9,
+    "y": 14401.4,
+    "zoom": 4
+  },
+  {
+    "name": "Tugur",
+    "type": "local",
+    "x": 1738.9,
+    "y": 6130.5,
+    "zoom": 4
+  },
+  {
+    "name": "Tungar",
+    "type": "local",
+    "x": 12631.0,
+    "y": 14134.4,
+    "zoom": 4
+  },
+  {
+    "name": "Urup",
+    "type": "local",
+    "x": 1537.9,
+    "y": 890.5,
+    "zoom": 4
+  },
+  {
+    "name": "Ushki",
+    "type": "local",
+    "x": 10817.9,
+    "y": 14630.4,
+    "zoom": 4
+  },
+  {
+    "name": "Utichy",
+    "type": "local",
+    "x": 8628.9,
+    "y": 5145.5,
+    "zoom": 4
+  },
+  {
+    "name": "Utyos",
+    "type": "local",
+    "x": 5453.9,
+    "y": 14534.4,
+    "zoom": 4
+  },
+  {
+    "name": "Yasnaya Polyana",
+    "type": "local",
+    "x": 8116.9,
+    "y": 9190.5,
+    "zoom": 4
+  },
+  {
+    "name": "Zvezdny nikel",
+    "type": "local",
+    "x": 12034.0,
+    "y": 10322.4,
+    "zoom": 4
+  },
+  {
+    "name": "Raketnaja buchta",
+    "type": "marine",
+    "x": 4396.9,
+    "y": 7268.5,
+    "zoom": 4
+  },
+  {
+    "name": "Ledanoj greben",
+    "type": "hill",
+    "x": 10756.9,
+    "y": 8668.5,
+    "zoom": 5
+  },
+  {
+    "name": "Odinokij vulkan",
+    "type": "hill",
+    "x": 10029.9,
+    "y": 12086.4,
+    "zoom": 5
+  },
+  {
+    "name": "Ostrij",
+    "type": "hill",
+    "x": 11546.9,
+    "y": 11668.4,
+    "zoom": 5
+  },
+  {
+    "name": "Pik Volcij",
+    "type": "hill",
+    "x": 8196.9,
+    "y": 11667.4,
+    "zoom": 5
+  },
+  {
+    "name": "Pik Vostocnij",
+    "type": "hill",
+    "x": 12836.0,
+    "y": 9417.5,
+    "zoom": 5
+  },
+  {
+    "name": "Storoz",
+    "type": "hill",
+    "x": 8776.9,
+    "y": 12790.4,
+    "zoom": 5
+  },
+  {
+    "name": "Trojka",
+    "type": "hill",
+    "x": 9016.9,
+    "y": 9267.5,
+    "zoom": 5
+  },
+  {
+    "name": "Tupoj",
+    "type": "hill",
+    "x": 11898.9,
+    "y": 11266.4,
+    "zoom": 5
+  }
+]

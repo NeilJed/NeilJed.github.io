@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Gas Zones",
+    "title_icon": "images/loot_icon_area_contaminatedarea_static.svg"
+  },
+  "sections": [
+    {
+      "id": "gas_zones",
+      "label": "Gas Zones",
+      "display_type": "radial",
+      "icon": "images/loot_icon_area_contaminatedarea_static.svg",
+      "items": [
+        { "x": 7396, "y": 7752, "r": 150 },
+        { "x": 5068, "y": 10108, "r": 275 },
+        { "x": 5074, "y": 11300, "r": 300 },
+        { "x": 14024, "y": 12042, "r": 265 }                      
+      ]
+    }
+  ]
+}
